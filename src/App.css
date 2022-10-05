@@ -1,0 +1,11 @@
+
+/* #mylist_container{
+  display: flexbox
+} */
+#mylist{
+  display: flex;
+}
+
+#reco{
+  display: flex;
+}
